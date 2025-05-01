@@ -8,7 +8,7 @@ if you are a digital artist or just someone who loves intricate fractal patterns
 
 ![Example Image](example2.png "Julia Fractal colormap:inferno")
 
-![Example Image](Figure_1.png Mandelbrot Fractal)
+![Example Image](Figure_1.png "Mandelbrot Fractal")
 
 ![Example Image](Julia_fractal_set.png "Julia Fractal colormap:hot")
 
