@@ -22,7 +22,7 @@ if you are a digital artist or just someone who loves intricate fractal patterns
 
 ## Installation
 
-Install my-project with git
+Install Fractaller with git
 
 ```bash
   git clone https://github.com/AnuroopVJ/Fractaller.git
