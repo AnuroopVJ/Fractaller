@@ -81,7 +81,7 @@ def get_n_columns(entry):
         return None
 
 ctk.set_appearance_mode("Dark")
-ctk.set_default_color_theme(r"C:\Users\neela\Desktop\Miscellaneous\coding\Fractal_app\orange.json")
+ctk.set_default_color_theme("green")
 
 app = ctk.CTk()
 app.geometry("1000x450")
