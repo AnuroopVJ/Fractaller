@@ -86,7 +86,7 @@ ctk.set_default_color_theme("green")
 app = ctk.CTk()
 app.geometry("1000x450")
 app.title("Fractaller")
-app.iconbitmap(r"C:\Users\neela\Desktop\Miscellaneous\coding\Fractal_app\org_94177.ico")
+app.iconbitmap(r"logo.ico")
 
 # Color map selection
 cmap_label = ctk.CTkLabel(app, text="Color Map:", fg_color="transparent")
