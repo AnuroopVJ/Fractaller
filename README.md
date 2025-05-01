@@ -4,7 +4,13 @@ Fractaller is a powerful fractal generation tool that lets you explore the fasci
 
 if you are a digital artist or just someone who loves intricate fractal patterns, you could generate cool fractal patterns with this!
 # Examples
-![Example Image](example1.png)
+![Example Image](example1.png "Buddhabrot Fractal") 
+
+![Example Image](example2.png "Julia Fractal colormap:inferno")
+
+![Example Image](Figure_1.png Mandelbrot Fractal)
+
+![Example Image](Julia_fractal_set.png "Julia Fractal colormap:hot")
 
 ## Features
 
